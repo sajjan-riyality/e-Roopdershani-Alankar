@@ -1,0 +1,10 @@
+.product-data{
+    display: none;
+}
+
+.product-meta-data{
+     position: absolute;
+    left: 35% !important;
+    top: 70% !important;
+   
+}
