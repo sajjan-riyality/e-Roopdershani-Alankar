@@ -215,7 +215,7 @@
                                         <input type="number" id="qty" min="1" max="100" value="1"/>
                                     </div>
 
-                                    <a href="cart.html" class="btn btn-add-to-cart">Add to Cart</a>
+                                     <!-- <a href="cart.html" class="btn btn-add-to-cart">Add to Cart</a> -->
                                 </div>
                             </div>
                         </div>
