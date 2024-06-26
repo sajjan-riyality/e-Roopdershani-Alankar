@@ -135,7 +135,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.php" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.php" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.php" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.php" class="btn btn-add-to-cart btn-compare">+
@@ -175,7 +175,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -215,7 +215,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -255,7 +255,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -295,7 +295,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -335,7 +335,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -375,7 +375,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -415,7 +415,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -455,7 +455,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -494,7 +494,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -533,7 +533,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+
@@ -572,7 +572,7 @@ include "header.php";
                                                 outdoors, the Chaz Hoodie promises superior warmth with every wear.
                                                 Thick material blocks out the wind as ribbed cuffs and bottom band seal
                                                 in body heat.</p>
-                                            <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                            <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-whislist">+
                                                 Wishlist</a>
                                             <a href="single-product.html" class="btn btn-add-to-cart btn-compare">+

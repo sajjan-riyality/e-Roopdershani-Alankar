@@ -147,7 +147,7 @@
                                 </dl>
                             </div>
                         </li>
-                        <li class="shop-cart"><a href="#"><i class="fa fa-shopping-bag"></i> <span
+                        <!-- <li class="shop-cart"><a href="#"><i class="fa fa-shopping-bag"></i> <span
                                 class="count">3</span></a>
                             <div class="mini-cart">
                                 <div class="mini-cart-body">
@@ -202,7 +202,7 @@
                                     <a href="checkout.html" class="btn-add-to-cart">Checkout</a>
                                 </div>
                             </div>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>

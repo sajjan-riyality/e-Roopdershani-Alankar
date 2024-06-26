@@ -36,13 +36,12 @@
 </head>
 <body>
 
-<?php
+    <?php
 
-include "header.php";
-
-
-?>
-
+    include "header.php";
+    
+    
+    ?>
 
 
 
@@ -190,7 +189,7 @@ include "header.php";
                                                 <i class="fa fa-star-o"></i>
                                             </span>
                                 <span class="price">$52.00</span>
-                                <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                 <span class="product-bedge">New</span>
                             </div>
 
@@ -221,7 +220,7 @@ include "header.php";
                                                 <i class="fa fa-star-o"></i>
                                             </span>
                                 <span class="price">$152.00</span>
-                                <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                 <span class="product-bedge">New</span>
                             </div>
 
@@ -251,7 +250,7 @@ include "header.php";
                                                 <i class="fa fa-star"></i>
                                             </span>
                                 <span class="price">$43.00</span>
-                                <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                 <span class="product-bedge">New</span>
                             </div>
 
@@ -280,7 +279,7 @@ include "header.php";
                                                 <i class="fa fa-star-half"></i>
                                             </span>
                                 <span class="price">$83.00</span>
-                                <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                 <span class="product-bedge sale">Sale</span>
                             </div>
 
@@ -311,7 +310,7 @@ include "header.php";
                                                 <i class="fa fa-star-half"></i>
                                             </span>
                                 <span class="price">$83.00</span>
-                                <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a>
+                                <!-- <a href="single-product.html" class="btn btn-add-to-cart">+ Add to Cart</a> -->
                                 <span class="product-bedge sale">Sale</span>
                             </div>
 
