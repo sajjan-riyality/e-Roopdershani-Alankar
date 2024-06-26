@@ -121,20 +121,20 @@
                         <li><a href="#" class="modal-active"><i class="fa fa-search"></i></a></li>
                         <li class="settings"><a href="#"><i class="fa fa-cog"></i></a>
                             <div class="site-settings d-block d-sm-flex">
-                                <dl class="currency">
+                                <!-- <dl class="currency">
                                     <dt>Currency</dt>
                                     <dd class="current"><a href="#">USD</a></dd>
                                     <dd><a href="#">AUD</a></dd>
                                     <dd><a href="#">CAD</a></dd>
                                     <dd><a href="#">BDT</a></dd>
-                                </dl>
+                                </dl> -->
 
-                                <dl class="my-account">
+                                <!-- <dl class="my-account">
                                     <dt>My Account</dt>
                                     <dd><a href="#">Dashboard</a></dd>
                                     <dd><a href="#">Profile</a></dd>
                                     <dd><a href="#">Sign</a></dd>
-                                </dl>
+                                </dl> -->
 
                                 <dl class="language">
                                     <dt>Language</dt>

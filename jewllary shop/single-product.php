@@ -181,7 +181,7 @@ include "header.php";
                                         <input type="number" id="qty" min="1" max="100" value="1"/>
                                     </div>
 
-                                    <a href="single-product.html" class="btn btn-add-to-cart">Add to Cart</a>
+                                    <!-- <a href="single-product.html" class="btn btn-add-to-cart">Add to Cart</a> -->
                                 </div>
 
                                 <div class="product-btn-group">

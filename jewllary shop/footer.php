@@ -104,6 +104,9 @@
                     <div class="copyright-text">
                         <p>All © Reserved by  Roopdershani Alankar, 2024. Design and Develop  by <a href="https://riyalitysoftwares.com/" target="_blank">Riyality softwere services</a></p>
                     </div>
+                    <div class="copyright-text">
+                        <p>Developed by - &nbsp | Mr. Sajjan Ghadage  | </p>
+                    </div>
                 </div>
             </div>
         </div>
