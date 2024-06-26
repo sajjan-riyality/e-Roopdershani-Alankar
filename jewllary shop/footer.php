@@ -102,7 +102,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="copyright-text">
-                        <p>All © Reserved by  Roopdershani Alankar, 2024. Design and Guidence by  <a href="https://riyalitysoftwares.com/" target="_blank">Riyality softwere services</a></p>
+                        <p>All © Reserved by  Roopdershani Alankar, 2024. Guidence by  <a href="https://riyalitysoftwares.com/" target="_blank">Riyality softwere services</a></p>
                     </div>
                     <div class="copyright-text">
                         <p>Developed by - &nbsp | Mr. Sajjan Ghadage  | </p>
